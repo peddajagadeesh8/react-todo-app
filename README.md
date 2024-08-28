@@ -1,4 +1,5 @@
-# DEMO : react-todo-app-two-teal.vercel.app
+# DEMO
+https://react-todo-app-two-teal.vercel.app/
 
 # Getting Started with Create React App
 
